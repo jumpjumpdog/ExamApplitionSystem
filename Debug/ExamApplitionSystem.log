@@ -1,0 +1,3 @@
+﻿  StuInformation.cpp
+c:\users\asus\documents\visual studio 2015\projects\examapplitionsystem\examapplitionsystem\stuinformation.cpp(225): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  ExamApplitionSystem.vcxproj -> C:\Users\asus\documents\visual studio 2015\Projects\ExamApplitionSystem\Debug\ExamApplitionSystem.exe
